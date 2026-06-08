@@ -5,7 +5,7 @@
 ## 一键部署
 
 ```powershell
-git clone https://github.com/YOUR_USER/claude-deepseek.git
+git clone https://github.com/sillycat1314/claude-deepseek.git
 cd claude-deepseek
 powershell -ExecutionPolicy Bypass -File setup.ps1
 ```
